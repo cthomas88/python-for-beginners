@@ -14,6 +14,15 @@ Which text editor are you using? Whatever one you have chosen to use, make sure 
 
 Let's start your first ever Python program by typing <pre><code> print("Hello World!")</code></pre>
 
-Run your Python code in the terminal or console, or if you're using VS Code, right click and select "Run python file in terminal". This will bring up an inbuilt terminal within VS Code to display the output of your code. 
+Run your Python code in the terminal or console, or if you're using VS Code, right click and select "Run python file in terminal". This will bring up an inbuilt terminal within VS Code to display the output of your code. Find out how to output Python code on your specific text editor if you're using something different. 
+
+## What is the print function?
+
+Print allows you to execute visible code in the output field so that you can have a visual of what your code is doing. 
+If you run some valid code that does not have the print function anywhere in it, then the code will still run (as long as there are no errors), however the print function allows you to actually see a visual result of the running of the code. Print is used when a human being is likely to encounter the code and needs to make sense of some of it.
+
+## When would I use print?
+
+Use print when you want to see an output from your code, for example what the value of a variable is (values and variables are explained in another chapter), but it is also good for debugging programs, finding faults, and trying to work out how and why a program works or doesn't work. 
 
 

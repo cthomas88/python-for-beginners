@@ -16,4 +16,8 @@ Variables can hold several different types of values and information, each of wh
 - Strings
 - Boolean
 
+## What can be the value of a variable be used for?
+
+Variables can be called upon in order to use the values for various parts of a program, depending on how you intend to use the information. Mathematics is one of the main uses of variable values, but there are many things we can use the stored information for. 
+
 

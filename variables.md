@@ -10,3 +10,10 @@ A variable is created by giving it a name and then assigning its contents to it 
 ## What information can variables hold?
 
 Variables can hold several different types of values and information, each of which will have its very own chapter in the coming series, however here they are in simple bullet form. 
+
+- Intergers
+- Floats
+- Strings
+- Boolean
+
+

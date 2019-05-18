@@ -20,4 +20,23 @@ Variables can hold several different types of values and information, each of wh
 
 Variables can be called upon in order to use the values for various parts of a program, depending on how you intend to use the information. Mathematics is one of the main uses of variable values, but there are many things we can use the stored information for. 
 
+## How to format a variable
+
+Variables should stick to specific formatting rules, so that your code not only works, but can also be read by other users. To assign a variable, remember that the letters are CASE SENSITIVE. So:
+
+<pre><code> cat = "paws" </code></pre>
+
+is completely different to:
+
+<pre><code> Cat = "paws" </code></pre>
+
+Variables should always start with a letter, can never have an empty space and can contain numbers. If spaces are needed to make the variable more understanding use an underscore like this example:
+
+<pre><code> my_first_variable = "I did it!" </code></pre>
+
+
+
+
+
+
 

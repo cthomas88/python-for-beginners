@@ -7,3 +7,4 @@ Python is a dynamically typed programming language meaning that you do not need 
 A variable is created by giving it a name and then assigning its contents to it with a single equals sign, for example:
 <pre><code>example = "value"</code></pre>
 
+## What information can variables hold?

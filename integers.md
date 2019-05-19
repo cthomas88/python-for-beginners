@@ -15,4 +15,19 @@ Here is a list of numbers. ALL of these are integers:
 - 100000
 - 1
 
-### Basically, an integers is ANY whole number!
+## What can I do with integers in Python?
+
+Variables can be used to store integer values. If you need to know what a variable is take a look at the chapter entitles 'variables.md'.
+
+Here is an example of a variable with a value that is an integer:
+
+<pre><code> oranges = 6
+apples = 9
+
+basket = oranges + apples
+
+print(basket)
+
+Output: 15</code></pre>
+
+### Basically, an integer is ANY whole number!

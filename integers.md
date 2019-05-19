@@ -21,7 +21,7 @@ Variables can be used to store integer values. If you need to know what a variab
 
 Here is an example of a variable with a value that is an integer:
 
-<pre><code> oranges = 6
+<pre><code>oranges = 6
 apples = 9
 
 basket = oranges + apples

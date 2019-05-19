@@ -30,7 +30,7 @@ is completely different to:
 
 <pre><code> Cat = "paws" </code></pre>
 
-Variables should always start with a letter, can never have an empty space and can contain numbers. If spaces are needed to make the variable more understanding use an underscore like this example:
+Variables should always start with a letter, can never have an empty space and can contain numbers. If spaces are needed to make the variable more understandable use an underscore like this example:
 
 <pre><code> my_first_variable = "I did it!" </code></pre>
 

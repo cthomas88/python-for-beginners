@@ -30,4 +30,6 @@ print(basket)
 
 Output: 15</code></pre>
 
+When assigning an integer to a variable there is no need for quotation marks or any other defining decoration around the number. Place a number within quotation marks would make the number a 'string' and mathematical equations could not longer be used on the numbers. See the 'string' chapter to find out what a string in Python is. 
+
 ### Basically, an integer is ANY whole number!

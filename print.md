@@ -25,4 +25,4 @@ If you run some valid code that does not have the print function anywhere in it,
 
 Use print when you want to see an output from your code, for example what the value of a variable is (values and variables are explained in another chapter), but it is also good for debugging programs, finding faults, and trying to work out how and why a program works or doesn't work. 
 
-
+### You will use print a lot! So get lots of practise 

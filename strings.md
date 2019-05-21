@@ -10,4 +10,6 @@ A string can be a data type and can be assigned to a variable name. Whenever we 
 
 <pre><code>string_variable = "I am a string!"</code></pre>
 
+You can also use single quotations to define a string, it doesn't matter:
 
+<pre><code>another_string = 'I am also a valid string!'</code></pre>

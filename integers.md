@@ -42,6 +42,8 @@ Dividing two numbers that do not equally part in Python 3 will automatically res
 
 However, you may just want the number 3 on its own rather than this long output. To do this prefix your sum with int, like this:
 
+<pre><code>print (int(10 / 3))</code></pre>
 
+Remember, in Python 3 everything you want to print must be in parethesis, and so must the sum you want to convert to an integer.
 
 ### Basically, an integer is ANY whole number!

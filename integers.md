@@ -35,7 +35,7 @@ When assigning an integer to a variable there is no need for quotation marks or 
 ## What if I want a whole number as my mathematical answer?
 
 Dividing two numbers that do not equally part in Python 3 will automatically result in the ouput being a *floating* number. There is a whole chapter on floating numbers if this concept is new to you. You can tell Python to output integers only by prefixing the argument with 'int'. Here's an example:
-## For Python 3
+### For Python 3
 
 <pre><code>print (10 / 3)
 >>> 3.333333333</code></pre>

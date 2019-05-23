@@ -47,4 +47,4 @@ However, you may just want the number 3 on its own rather than this long output.
 
 Remember, in Python 3 everything you want to print must be in parethesis, and so must the sum you want to convert to an integer.
 
-### Basically, an integer is ANY whole number!
+#### Basically, an integer is ANY whole number!

@@ -32,4 +32,16 @@ Output: 15</code></pre>
 
 When assigning an integer to a variable there is no need for quotation marks or any other defining decoration around the number. Place a number within quotation marks would make the number a 'string' and mathematical equations could not longer be used on the numbers. See the 'string' chapter to find out what a string in Python is. 
 
+## What if I want a whole number as my mathematical answer?
+
+Dividing two numbers that do not equally part in Python 3 will automatically result in the ouput being a *floating* number. There is a whole chapter on floating numbers if this concept is new to you. You can tell Python to output integers only by prefixing the argument with 'int'. Here's an example:
+## For Python 3
+
+<pre><code>print (10 / 3)
+>>> 3.333333333</code></pre>
+
+However, you may just want the number 3 on its own rather than this long output. To do this prefix your sum with int, like this:
+
+
+
 ### Basically, an integer is ANY whole number!

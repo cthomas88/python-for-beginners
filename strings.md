@@ -18,3 +18,15 @@ You can also use single quotations to define a string, it doesn't matter:
 
 Sometimes your string may need to include an apostrophe or quotation marks, and so you need to tell Python when to ignore such punctuation. The following code will produce an error, because Python will attempt to end the string prematurely:
 
+<pre><code>a_string = "Mark is a boy and he says "hi!", Mark also has a cat."</code></pre>
+
+The string in this code will end at the first quotation mark within the string, just before hi!. This is because Python detects that this is a string, thanks to the very first quotation mark, and it looks for the end of the string in the form of another quotation mark. From hi!" ... to the very end of the string is not understood by Python and so an error will occur. 
+
+It is perfectly OK to use a single apostrophe within a string that has been outlines with double quotation marks, as in this example:
+
+<pre><code>a_string = "Mark is a boy and he says 'hi!', Mark also has a cat."</code></pre>
+
+And you can also swap these around just like this:
+
+<pre><code>a_string = 'Mark is a boy and he says "hi!", Mark also has a cat.'</code></pre>
+

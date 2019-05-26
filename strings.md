@@ -13,3 +13,8 @@ A string can be a data type and can be assigned to a variable name. Whenever we 
 You can also use single quotations to define a string, it doesn't matter:
 
 <pre><code>another_string = 'I am also a valid string!'</code></pre>
+
+## What if I need to include an apostrophe or quotation marks within my string?
+
+Sometimes your string may need to include an apostrophe or quotation marks, and so you need to tell Python when to ignore such punctuation. The following code will produce an error, because Python will attempt to end the string prematurely:
+

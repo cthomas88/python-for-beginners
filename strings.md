@@ -42,3 +42,9 @@ Running this code will output the following in Python 3:
 
 And the string will attempt to end at the end of the first instance of the word Harry, where an apostrophe appears as it refers to Harry's mother. 
 
+Therefore the string looks like this:
+
+<pre><code>string = '"I am writing a Python string", Said Harry'</code></pre>
+
+And the rest of the text from s.. on wards, will cause Python to run an error because it doesn't know what the rest of the text is meant to be!
+

@@ -48,3 +48,4 @@ Therefore the string looks like this:
 
 And the rest of the text from s.. on wards, will cause Python to run an error because it doesn't know what the rest of the text is meant to be!
 
+There is a way to make Python ignore a piece of punctuation's original meaning and to include it in the string it is written within, and that invovles using the '\' mark, or the backslash, directly before the punctutation mark you want python to ignore. 

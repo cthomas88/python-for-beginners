@@ -56,3 +56,5 @@ So, our string will eventually look like this:
 print (string)
 
 >>> "I am writing a Python string", Said Harry's mum. 'Nice!' Thought Harry.</code></pre>
+
+Ensure you place your backslash directly in front of the punctuation mark you want Python to ignore, with no spaces between them. As you type strings like this into your text editor, placing a \ will probably cause the text editor to highlight the backslash and proceeding punctuation mark in a different color. 

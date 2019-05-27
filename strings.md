@@ -30,3 +30,11 @@ And you can also swap these around just like this:
 
 <pre><code>a_string = 'Mark is a boy and he says "hi!", Mark also has a cat.'</code></pre>
 
+## What if I need to include several various punctuation marks within my string?
+
+I want to write a string that looks like this:
+
+<pre><code>string = '"I am writing a Python string", Said Harry's mum. 'Nice!' Thought Harry.'</code></pre>
+
+
+

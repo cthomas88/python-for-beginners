@@ -36,5 +36,9 @@ I want to write a string that looks like this:
 
 <pre><code>string = '"I am writing a Python string", Said Harry's mum. 'Nice!' Thought Harry.'</code></pre>
 
+Running this code will output the following in Python 3:
 
+<pre><code>SyntaxError: invalid syntax</code></pre>
+
+And the string will attempt to end at the end of the first instance of the word Harry, where an apostrophe appears as it refers to Harry's mother. 
 

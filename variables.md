@@ -36,7 +36,11 @@ Variables should always start with a letter, can never have an empty space and c
 
 For strings, add quote marks around the string (see string chapter for more info on this.) For numbers there is no need for quotes, for example:
 
-
+<pre><code>numbers = 132
+more_numbers = 567
+even_more_numbers = 3.5632
+and_again = 1
+string = "Strings have single or double quotes around them"</code></pre>
 
 
 

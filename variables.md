@@ -34,7 +34,7 @@ Variables should always start with a letter, can never have an empty space and c
 
 <pre><code> my_first_variable = "I did it!" </code></pre>
 
-
+For strings, add quote marks around the string (see string chapter for more info on this.)
 
 
 

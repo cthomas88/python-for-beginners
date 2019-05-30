@@ -14,4 +14,26 @@ Notice here we have two strings, with an addition operator in the middle of them
 
 Pay close attention to the original statements, I placed a space before the word visit, at the beginning of the second string. If I hadn't, then resulting output would look like this:
 
+<pre><code>"I would like to" + "visit Disney World in Florida."
+>>> "I would like tovisit Disney World in Florida."</code></pre>
+
+Adding strings together is literal, and takes into consideration spaces, or a lack of spaces. 
+
+## Some more examples of concatination
+
+<pre><code>"I" + "am" + "happy" + "today"
+>>> Iamhappytoday
+
+"I" + " am" + " happy" + " today"
+>>> "I am happy today"
+
+"abcdefghijklmnopqrst" + "uvwxyz"
+>>> "abcdefghijklmnopqrstuvwxyz"
+
+"two" + " three"
+>>> "two three"
+
+"2" + "7" + "8" + "4"
+>>> "2784"</code></pre>
+
 

@@ -22,7 +22,7 @@ Adding strings together is literal, and takes into consideration spaces, or a la
 ## Some more examples of concatination
 
 <pre><code>"I" + "am" + "happy" + "today"
->>> Iamhappytoday
+>>> "Iamhappytoday"
 
 "I" + " am" + " happy" + " today"
 >>> "I am happy today"
@@ -35,5 +35,11 @@ Adding strings together is literal, and takes into consideration spaces, or a la
 
 "2" + "7" + "8" + "4"
 >>> "2784"</code></pre>
+
+## Answer this question yourself
+
+Have a look at this input, and take a guess at what you think the output would be
+
+<pre><code>print ("5" + "5" + 5)</code></pre>
 
 

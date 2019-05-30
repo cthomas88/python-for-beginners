@@ -8,4 +8,6 @@ Take a look at this example:
 
 <pre><code>"I would like to" + " visit Disney World in Florida."</code></pre>
 
-Notice here we have two strings, with an addition operator in the middle of them. 
+Notice here we have two strings, with an addition operator in the middle of them. The resulting output of this, if we were to put a print statement in front of the strings, would look like this:
+
+

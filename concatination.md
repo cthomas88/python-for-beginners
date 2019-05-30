@@ -10,4 +10,8 @@ Take a look at this example:
 
 Notice here we have two strings, with an addition operator in the middle of them. The resulting output of this, if we were to put a print statement in front of the strings, would look like this:
 
+<pre><code>"I would like to visit Disney World in Florida."</code></pre>
+
+Pay close attention to the original statements, I placed a space before the word visit, at the beginning of the second string. If I hadn't, then resulting output would look like this:
+
 

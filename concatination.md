@@ -42,4 +42,10 @@ Have a look at this input, and take a guess at what you think the output would b
 
 <pre><code>print ("5" + "5" + 5)</code></pre>
 
+🕐🕐🕐🕐🕐🕐🕐🕐🕐🕐🕐🕐🕐🕐🕐🕐🕐🕐🕐
 
+Were you able to work it out? 
+
+The out put would have actually been an error, and looked something like this:
+
+<pre><code>TypeError: can only concatenate str (not "int") to str</code></pre>

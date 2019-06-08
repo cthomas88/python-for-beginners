@@ -1,1 +1,3 @@
-# Arithmatic
+# Arithmetic
+
+## Arithmetic in Python

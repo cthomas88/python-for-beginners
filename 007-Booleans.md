@@ -22,6 +22,7 @@ Generally booleans are not defined in a variable like most other input types, as
 Here we have a variable to which we have asigned a number of your choice. The following code prints out a statement if the statement is true and if the statement if false. Look through the process slowly to fully understand what is happening here, and reacreate your own version in your text editor. 
 
 <pre><code>num1 = 35
+
 if num1 > 50:
     print ("This number is bigger than 50")
 else:

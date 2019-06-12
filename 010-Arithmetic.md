@@ -12,8 +12,8 @@ Many programs, no matter which language you are using, require the need to solve
 
 When it comes to solving math equations, Python allows the use of the basic operations we are all familiar with such as:
 
-- \+ *addition*
-- \- *subtraction*
-- \* *multiplication*
-- \/ *division*
+- \+  *addition*
+- \-  *subtraction*
+- \*  *multiplication*
+- \/  *division*
 

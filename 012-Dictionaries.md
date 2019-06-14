@@ -5,4 +5,7 @@
 Dictionairies are a collection of data in the format of 'key and variable', so each element contains two pieces of information. 
 
 ```Python 
-<pre><code>my_dict = {'Orange':50, 'Apples':80, 'Bananas':99}</code></pre>
+my_dict = {'Orange':50, 'Apples':80, 'Bananas':99}
+
+```
+The above example shows how dictionaries are displayed, and their key:value pairing syntax.

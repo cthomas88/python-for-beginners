@@ -9,3 +9,4 @@ my_dict = {'Orange':50, 'Apples':80, 'Bananas':99}
 
 ```
 The above example shows how dictionaries are displayed, and their key:value pairing syntax.
+Dictionairies are always displayed within curly braces {} and are usually asigned to variable names. 

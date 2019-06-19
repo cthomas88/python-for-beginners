@@ -49,3 +49,5 @@ Were you able to work it out?
 The out put would have actually been an error, and looked something like this:
 
 <pre><code>TypeError: can only concatenate str (not "int") to str</code></pre>
+
+This is because you cannot concatinate a string to an integer or floating point number, only strings can be concatinated to one another. 

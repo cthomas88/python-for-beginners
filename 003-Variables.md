@@ -5,8 +5,9 @@ Python is a dynamically typed programming language meaning that you do not need 
 ## How to make a variable
 
 A variable is created by giving it a name and then assigning its contents to it with a single equals sign, for example:
-<pre><code>example = "value"</code></pre>
-
+```python
+example = "value"
+```
 ## What information can variables hold?
 
 Variables can hold several different types of values and information, each of which will have its very own chapter in the coming series, however here they are in simple bullet form. 
@@ -23,25 +24,26 @@ Variables can be called upon in order to use the values for various parts of a p
 ## How to format a variable
 
 Variables should stick to specific formatting rules, so that your code not only works, but can also be read by other users. To assign a variable, remember that the letters are CASE SENSITIVE. So:
-
-<pre><code> cat = "paws" </code></pre>
-
+```python
+cat = "paws"
+```
 is completely different to:
-
-<pre><code> Cat = "paws" </code></pre>
-
+```python
+Cat = "paws"
+```
 Variables should always start with a letter, can never have an empty space and can contain numbers. If spaces are needed to make the variable more understandable use an underscore like this example:
-
-<pre><code> my_first_variable = "I did it!" </code></pre>
-
+```python
+my_first_variable = "I did it!"
+```
 For strings, add quote marks around the string (see string chapter for more info on this.) For numbers there is no need for quotes, for example:
 
-<pre><code>numbers = 132
+```python
+numbers = 132
 more_numbers = 567
 even_more_numbers = 3.5632
 and_again = 1
-string = "Strings have single or double quotes around them"</code></pre>
-
+string = "Strings have single or double quotes around them"
+```
 
 
 

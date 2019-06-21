@@ -12,7 +12,11 @@ Which text editor are you using? Whatever one you have chosen to use, make sure 
 
 ## Hello World!
 
-Let's start your first ever Python program by typing <pre><code> print("Hello World!")</code></pre>
+Let's start your first ever Python program by typing 
+
+```python
+print("Hello World!")
+```
 
 Run your Python code in the terminal or console, or if you're using VS Code, right click and select "Run python file in terminal". This will bring up an inbuilt terminal within VS Code to display the output of your code. Find out how to output Python code on your specific text editor if you're using something different. 
 

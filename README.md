@@ -1,10 +1,10 @@
 # Learn Python for complete beginners
 
-This open source file contains chapters and files that explain differing aspect of Python. It is written in a simple and easy to understand language so that anyone can open the files and begin learning Python!
+This open source file contains chapters and files that explain differing aspects of Python. It is written in a simple and easy to understand language so that anyone can open the files and begin learning Python!
 
 ## Chapters
 
-Each different aspect of Python will have a dedicated chapter for you to open and read. Each chapter will contain easy to understand definititons and explanations of the that particular topic, along with some examples. 
+Each different area of Python will have a dedicated chapter for you to open and read. Each chapter will contain easy to understand definititons and explanations of that particular topic, along with some examples. 
 
 ## How to use
 

@@ -5,7 +5,7 @@ The very first thing that is worth learning in Python is the print function. Thi
 ## What does it do?
 
 Typing out print, followed by parentheses(), is the function that places your content onto the screen, allowing you to see the results of your code. 
-
+I.e(after you might have finished coding a particular program,you use the print statement+whatever you want to print, to display your output)
 ## Open your text editor
 
 Which text editor are you using? Whatever one you have chosen to use, make sure it is set up to use, display and run Python code. For my examples and in all of the following files I will refer to my own chosen text editor, Visual Studio Code. Ensuring VS Code is set up for optimal Python usage is a job in itself, so please ensure you have followed the instructions for creating your environment first before attempting your first program. 
@@ -15,8 +15,9 @@ Which text editor are you using? Whatever one you have chosen to use, make sure 
 Let's start your first ever Python program by typing 
 
 ```python
-print("Hello World!")
-```
+print("Hello World!")now this program after running displays(Hello world)as the output.
+If you want to display anything on your program,you should use the (print)statement+the what you want to display in quotation("")
+
 
 Run your Python code in the terminal or console, or if you're using VS Code, right click and select "Run python file in terminal". This will bring up an inbuilt terminal within VS Code to display the output of your code. Find out how to output Python code on your specific text editor if you're using something different. 
 

@@ -17,3 +17,10 @@ Here are two variables that have floating numbers assigned to them:
 pi = 3.1415
 another_valid_float = 1.0
 this_is_valid_too = 7.</code></pre>
+##Printing floats
+Python allows us to also print floats of an integer number. We do this by adding float at the beginning of the integer value
+E.g >>>number=66 
+    >>>Print float(number).
+Output >>> 66.0
+
+
